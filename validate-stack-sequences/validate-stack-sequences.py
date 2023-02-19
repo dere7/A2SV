@@ -1,4 +1,5 @@
 class Solution(object):
+    #pushed = [1,2,3,4,5], popped = [4,3,5,1,2]
     def validateStackSequences(self, pushed, popped):
         stack = []
         i = 0
